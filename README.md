@@ -25,6 +25,8 @@ Lab1Web/
 │   └── profil.jpg
 └── README.md
 ```
+<img width="228" height="137" alt="Screenshot 2026-09-23 190549" src="https://github.com/user-attachments/assets/83af2747-1062-467d-8a2b-36e83ea460e9" />
+
 
 ---
 
