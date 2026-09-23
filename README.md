@@ -107,6 +107,4 @@ Seluruh elemen tersebut kemudian digunakan untuk membuat sebuah **halaman web pr
 
 ---
 
-## Kesimpulan
 
-Pada Praktikum 1 ini, dipelajari dasar-dasar HTML seperti struktur dokumen, paragraf, heading, pemformatan teks, gambar, hyperlink, list, dan komentar. Seluruh materi kemudian diterapkan dalam pembuatan halaman web sederhana menggunakan HTML.
