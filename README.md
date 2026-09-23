@@ -7,7 +7,12 @@ NIM : 312510246
 Mata Kuliah : Pemrograman Web
 
 1.	Struktur file 
-
+Lab1Web/
+├── index.html
+├── halaman2.html
+├── images/
+│   └── profil.jpg
+└── README.md
   
 2.	Struktur Dasar HTML 
 Membuat file indeks.html dengan kerangka struktur dokumen HTML5 standar yang mencakup deklarasi <!DOCTYPE html>, tag <html>, <head>, <title>, dan <body>. 
