@@ -4,6 +4,7 @@ Repository ini dibuat untuk memenuhi tugas **Praktikum 1 Pemrograman Web** di **
 
 ## Identitas Mahasiswa
 
+| Keterangan      | Data            |
 | --------------- | --------------- |
 | **Nama**        | Fachmi Amrullah |
 | **Kelas**       | I251B           |
@@ -105,5 +106,4 @@ Menggabungkan seluruh elemen HTML yang telah dipelajari, mulai dari struktur das
 Seluruh elemen tersebut kemudian digunakan untuk membuat sebuah **halaman web profil mahasiswa** yang utuh.
 
 ---
-
 
